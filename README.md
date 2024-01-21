@@ -1,4 +1,8 @@
 <h1>Istruzioni</h1>
+<h2>Scaricare il programma</h2>
+Puoi farlo da <a href="https://github.com/marseluca/simulatore/releases/download/simulatori/Simulatore.exe">qui</a>:
+Per la risoluzione dei problemi, vai alla fine di questa guida.
+
 <h2>1. Lanciare il programma</h2>
 Come prima cosa chiede di inserire il percorso del database:<br><br>
 
@@ -29,6 +33,16 @@ Se invece non vuoi ricevere una nuova domanda, invia "n" e il programma ti mostr
 Il programma propone di volta in volta domande <b>in ordine casuale</b>, prelevandole dal database che selezioni.
 Anche l'ordine delle risposte è <b>casuale</b>, in modo che tu non possa memorizzare il numero della risposta ma direttamente la risposta.
 La risposta corretta è sempre quella che hai messo nella seconda colonna del database Excel.
+
+<h4>Risoluzione dei problemi</h4>
+Per eventuali problemi nell'esecuzione del programma, prova con questa soluzione:<br><br>
+1. Apri start, scrivi "cmd" e premi invio. Si apre il prompt dei comandi;<br>
+<img width="403" alt="image" src="https://github.com/marseluca/simulatore/assets/33966986/35285519-e3e8-4b17-9e53-62214d6c8090">
+
+2. Digita "pip install openpyxl", premi invio e aspetta che termini l'installazione;<br>
+<img width="406" alt="image" src="https://github.com/marseluca/simulatore/assets/33966986/6306b609-a949-4175-a37a-44907975fb32">
+
+3. Prova a lanciare di nuovo il programma.
 
 
 
