@@ -34,7 +34,7 @@ Il programma propone di volta in volta domande <b>in ordine casuale</b>, preleva
 Anche l'ordine delle risposte è <b>casuale</b>, in modo che tu non possa memorizzare il numero della risposta ma direttamente la risposta.
 La risposta corretta è sempre quella che hai messo nella seconda colonna del database Excel.
 
-<h4>Risoluzione dei problemi</h4>
+<h2>Risoluzione dei problemi</h2>
 Per eventuali problemi nell'esecuzione del programma, prova con questa soluzione:<br><br>
 1. Apri start, scrivi "cmd" e premi invio. Si apre il prompt dei comandi;<br>
 <img width="403" alt="image" src="https://github.com/marseluca/simulatore/assets/33966986/35285519-e3e8-4b17-9e53-62214d6c8090">
