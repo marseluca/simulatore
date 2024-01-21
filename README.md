@@ -35,7 +35,15 @@ Anche l'ordine delle risposte è <b>casuale</b>, in modo che tu non possa memori
 La risposta corretta è sempre quella che hai messo nella seconda colonna del database Excel.
 
 <h2>Risoluzione dei problemi</h2>
-Per eventuali problemi nell'esecuzione del programma, prova con questa soluzione:<br><br>
+Per eventuali problemi nell'esecuzione del programma, prova con queste soluzioni:<br><br>
+
+<h3>Riconosciuto come virus</h3>
+Se esce questa schermata:<br>
+<img width="402" alt="image" src="https://github.com/marseluca/simulatore/assets/33966986/e1a381ec-4a30-4efb-9ab5-b28a27b67975"><br>
+Seleziona "Ulteriori informazioni" e poi "Esegui comunque":<br>
+<img width="402" alt="image" src="https://github.com/marseluca/simulatore/assets/33966986/468a6c09-3aaf-405b-b675-547287c647f0">
+
+<h3>Il file si apre ma non parte</h3>
 1. Apri start, scrivi "cmd" e premi invio. Si apre il prompt dei comandi;<br>
 <img width="403" alt="image" src="https://github.com/marseluca/simulatore/assets/33966986/35285519-e3e8-4b17-9e53-62214d6c8090"><br>
 
