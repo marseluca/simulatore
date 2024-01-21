@@ -1,6 +1,6 @@
 <h1>Istruzioni</h1>
 <h2>Scaricare il programma</h2>
-Puoi farlo da <a href="https://github.com/marseluca/simulatore/releases/download/simulatori/Simulatore.exe">qui</a>:
+Puoi farlo da <a href="https://github.com/marseluca/simulatore/releases/download/simulatori/Simulatore.exe">qui</a>.<br>
 Per la risoluzione dei problemi, vai alla fine di questa guida.
 
 <h2>1. Lanciare il programma</h2>
