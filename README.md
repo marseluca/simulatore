@@ -37,10 +37,10 @@ La risposta corretta è sempre quella che hai messo nella seconda colonna del da
 <h2>Risoluzione dei problemi</h2>
 Per eventuali problemi nell'esecuzione del programma, prova con questa soluzione:<br><br>
 1. Apri start, scrivi "cmd" e premi invio. Si apre il prompt dei comandi;<br>
-<img width="403" alt="image" src="https://github.com/marseluca/simulatore/assets/33966986/35285519-e3e8-4b17-9e53-62214d6c8090">
+<img width="403" alt="image" src="https://github.com/marseluca/simulatore/assets/33966986/35285519-e3e8-4b17-9e53-62214d6c8090"><br>
 
 2. Digita "pip install openpyxl", premi invio e aspetta che termini l'installazione;<br>
-<img width="406" alt="image" src="https://github.com/marseluca/simulatore/assets/33966986/6306b609-a949-4175-a37a-44907975fb32">
+<img width="406" alt="image" src="https://github.com/marseluca/simulatore/assets/33966986/6306b609-a949-4175-a37a-44907975fb32"><br>
 
 3. Prova a lanciare di nuovo il programma.
 
